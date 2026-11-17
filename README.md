@@ -1,6 +1,6 @@
 # Hiperfiltración glomerular / Glomerular hyperfiltration — interactive teaching simulator
 
-**Live demo:** https://ferasmed-dev.github.io/hiperfiltracion-glomerular/ · English: [`?lang=en`](https://ferasmed-dev.github.io/simulator-glomerular-of-hyperfiltration/?lang=en)
+**Live demo:** https://ferasmed-dev.github.io/imulator-glomerular-of-hyperfiltration/ · English: [`?lang=en`](https://ferasmed-dev.github.io/simulator-glomerular-of-hyperfiltration/?lang=en)
 
 A small, transparent, tunable model of **glomerular hyperfiltration** and the **vicious cycle of chronic kidney disease (CKD) progression**, built for medical students. The interface is available in **Spanish and English** (ES/EN switch, top right).
 
